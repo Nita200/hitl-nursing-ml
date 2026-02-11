@@ -1,8 +1,6 @@
 # hitl-nursing-ml
 # Human-in-the-Loop Machine Learning for Nursing Education
 
-# Human-in-the-Loop Machine Learning for Nursing Education
-
 This repository contains a technical prototype for classifying nursing student
 clinical decisions and rationales using machine learning and transformer models
 (DistilBERT and T5). A human-in-the-loop (HITL) loop is implemented to simulate
@@ -36,5 +34,5 @@ educator corrections and incremental model retraining.
 - Transformers
 - Scikit-learn
 - Pandas
+- Numpy
 - Matplotlib
-
